@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,100:004400&height=180&section=header&text=NETRAIDER&fontSize=60&fontColor=00ff99&desc=Witwizard&descSize=18&descAlign=50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/networkx.svg" width="256" height="256" alt="NetRaider Logo" />
 </p>
 
 
