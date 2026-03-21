@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iconduck.com/icons/google/nmap/nmap-original.svg" width="200" alt="NETRAIDER" />
+  <img src="https://img.icons8.com/ios-filled/500/000000/search-in-list.png" width="200" alt="NETRAIDER Search Icon"/>
 </p>
 
 # NETRAIDER
