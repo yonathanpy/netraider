@@ -1,4 +1,7 @@
-# NetRaider
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,100:004400&height=180&section=header&text=NETRAIDER&fontSize=60&fontColor=00ff99&desc=Witwizard&descSize=18&descAlign=50" />
+</p>
+
 
 NetRaider is a modular network reconnaissance and traffic inspection framework written in Python.
 
