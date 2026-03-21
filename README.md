@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:002200,100:004400&height=180&section=header&text=NETRAIDER🔍Recon+Engine&fontSize=60&fontColor=00ff77&desc=Witwizard&descSize=18&descColor=cccccc" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAMAAAC5zwqKAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+YJEg4bEeh8UaEAAAHsUExURUdwTNnZ2d3d3e3t7fX19fn5+f7+/vDw8Pn5+f39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f39/f7+/v7+/v39/fz8/P39/f4AAACGx7TtAAAAS0lEQVR4nO3BAQ0AAADCoPdPbQhqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAfQEBABgABVFLMAAAAABJRU5ErkJggg==" width="400" alt="NetRaider Banner" />
 </p>
 
 # NETRAIDER
