@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/networkx.svg" width="256" height="256" alt="NetRaider Logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/kali.svg" width="256" height="256" alt="NetRaider Logo" />
 </p>
-
 
 NetRaider is a modular network reconnaissance and traffic inspection framework written in Python.
 
