@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAMAAAC5zwqKAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+YJEg4bEeh8UaEAAAHsUExURUdwTNnZ2d3d3e3t7fX19fn5+f7+/vDw8Pn5+f39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f7+/v7+/v39/fz8/P39/f39/f7+/v7+/v39/fz8/P39/f4AAACGx7TtAAAAS0lEQVR4nO3BAQ0AAADCoPdPbQhqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAfQEBABgABVFLMAAAAABJRU5ErkJggg==" width="400" alt="NetRaider Banner" />
+  <img src="https://iconduck.com/icons/google/nmap/nmap-original.svg" width="200" alt="NETRAIDER" />
 </p>
 
 # NETRAIDER
